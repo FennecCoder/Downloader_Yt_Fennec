@@ -1,7 +1,6 @@
-from pytube import YouTube
+from pytube import YouTube, Playlist
 from progress.bar import Bar
 import os
-from pytube import Playlist
 import  sys
 
 def menu():
